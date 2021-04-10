@@ -1,0 +1,138 @@
+sample,organism,source,developmental stage,accession number (ENA)
+1cell_rep1,Danio rerio,whole embryo,1cell (0.0hpf),SAMEA3892105
+1cell_rep2,Danio rerio,whole embryo,1cell (0.0hpf),SAMEA3892106
+1cell_rep3,Danio rerio,whole embryo,1cell (0.0hpf),SAMEA3892107
+1cell_rep4,Danio rerio,whole embryo,1cell (0.0hpf),SAMEA3892109
+1cell_rep5,Danio rerio,whole embryo,1cell (0.0hpf),SAMEA3892110
+2cell_rep1,Danio rerio,whole embryo,2cell (0.75hpf),SAMEA3892081
+2cell_rep2,Danio rerio,whole embryo,2cell (0.75hpf),SAMEA3892082
+2cell_rep3,Danio rerio,whole embryo,2cell (0.75hpf),SAMEA3892083
+2cell_rep4,Danio rerio,whole embryo,2cell (0.75hpf),SAMEA3892084
+2cell_rep5,Danio rerio,whole embryo,2cell (0.75hpf),SAMEA3892085
+128cell_rep1,Danio rerio,whole embryo,128cell (2.25hpf),SAMEA3892087
+128cell_rep2,Danio rerio,whole embryo,128cell (2.25hpf),SAMEA3892088
+128cell_rep3,Danio rerio,whole embryo,128cell (2.25hpf),SAMEA3892089
+128cell_rep4,Danio rerio,whole embryo,128cell (2.25hpf),SAMEA3892090
+128cell_rep5,Danio rerio,whole embryo,128cell (2.25hpf),SAMEA3892091
+1k-cell_rep1,Danio rerio,whole embryo,1k-cell (3hpf),SAMEA3892099
+1k-cell_rep2,Danio rerio,whole embryo,1k-cell (3hpf),SAMEA3892100
+1k-cell_rep3,Danio rerio,whole embryo,1k-cell (3hpf),SAMEA3892101
+1k-cell_rep4,Danio rerio,whole embryo,1k-cell (3hpf),SAMEA3892102
+1k-cell_rep5,Danio rerio,whole embryo,1k-cell (3hpf),SAMEA3892104
+dome_rep1,Danio rerio,whole embryo,dome (4.3hpf),SAMEA3892075
+dome_rep2,Danio rerio,whole embryo,dome (4.3hpf),SAMEA3892076
+dome_rep3,Danio rerio,whole embryo,dome (4.3hpf),SAMEA3892077
+dome_rep4,Danio rerio,whole embryo,dome (4.3hpf),SAMEA3892078
+dome_rep5,Danio rerio,whole embryo,dome (4.3hpf),SAMEA3892079
+50epi_rep1,Danio rerio,whole embryo,50%-epiboly (5.25hpf),SAMEA3892004
+50epi_rep2,Danio rerio,whole embryo,50%-epiboly (5.25hpf),SAMEA3892005
+50epi_rep3,Danio rerio,whole embryo,50%-epiboly (5.25hpf),SAMEA3892006
+50epi_rep4,Danio rerio,whole embryo,50%-epiboly (5.25hpf),SAMEA3892007
+50epi_rep5,Danio rerio,whole embryo,50%-epiboly (5.25hpf),SAMEA3892008
+6hpf_rep1,Danio rerio,whole embryo,shield (6hpf),SAMEA3892050
+6hpf_rep2,Danio rerio,whole embryo,shield (6hpf),SAMEA3892051
+6hpf_rep3,Danio rerio,whole embryo,shield (6hpf),SAMEA3892052
+6hpf_rep4,Danio rerio,whole embryo,shield (6hpf),SAMEA3892054
+6hpf_rep5,Danio rerio,whole embryo,shield (6hpf),SAMEA3892055
+8hpf_rep1,Danio rerio,whole embryo,75%-epiboly (8hpf),SAMEA3892056
+8hpf_rep2,Danio rerio,whole embryo,75%-epiboly (8hpf),SAMEA3892057
+8hpf_rep3,Danio rerio,whole embryo,75%-epiboly (8hpf),SAMEA3892058
+8hpf_rep4,Danio rerio,whole embryo,75%-epiboly (8hpf),SAMEA3892060
+8hpf_rep5,Danio rerio,whole embryo,75%-epiboly (8hpf),SAMEA3892061
+10.33hpf_rep1,Danio rerio,whole embryo,1-4 somites (10.33hpf),SAMEA3892093
+10.33hpf_rep2,Danio rerio,whole embryo,1-4 somites (10.33hpf),SAMEA3892094
+10.33hpf_rep3,Danio rerio,whole embryo,1-4 somites (10.33hpf),SAMEA3892095
+10.33hpf_rep4,Danio rerio,whole embryo,1-4 somites (10.33hpf),SAMEA3892096
+10.33hpf_rep5,Danio rerio,whole embryo,1-4 somites (10.33hpf),SAMEA3892097
+16hpf_somites_rep1,Danio rerio,whole embryo,14-19 somites (16hpf),SAMEA3892063
+16hpf_somites_rep2,Danio rerio,whole embryo,14-19 somites (16hpf),SAMEA3892064
+16hpf_somites_rep3,Danio rerio,whole embryo,14-19 somites (16hpf),SAMEA3892065
+16hpf_somites_rep4,Danio rerio,whole embryo,14-19 somites (16hpf),SAMEA3892066
+16hpf_somites_rep5,Danio rerio,whole embryo,14-19 somites (16hpf),SAMEA3892067
+19hpf_somites_rep1,Danio rerio,whole embryo,20-25 somites (19hpf),SAMEA3892069
+19hpf_somites_rep2,Danio rerio,whole embryo,20-25 somites (19hpf),SAMEA3892070
+19hpf_somites_rep3,Danio rerio,whole embryo,20-25 somites (19hpf),SAMEA3892071
+19hpf_somites_rep4,Danio rerio,whole embryo,20-25 somites (19hpf),SAMEA3892072
+19hpf_somites_rep5,Danio rerio,whole embryo,20-25 somites (19hpf),SAMEA3892073
+24hpf_rep1,Danio rerio,whole embryo,prime-5 (24hpf),SAMEA3892009
+24hpf_rep2,Danio rerio,whole embryo,prime-5 (24hpf),SAMEA3892010
+24hpf_rep3,Danio rerio,whole embryo,prime-5 (24hpf),SAMEA3892011
+24hpf_rep4,Danio rerio,whole embryo,prime-5 (24hpf),SAMEA3892012
+24hpf_rep5,Danio rerio,whole embryo,prime-5 (24hpf),SAMEA3892013
+30hpf_rep1,Danio rerio,whole embryo,prime-15 (30hpf),SAMEA3892014
+30hpf_rep2,Danio rerio,whole embryo,prime-15 (30hpf),SAMEA3892015
+30hpf_rep3,Danio rerio,whole embryo,prime-15 (30hpf),SAMEA3892016
+30hpf_rep4,Danio rerio,whole embryo,prime-15 (30hpf),SAMEA3892017
+30hpf_rep5,Danio rerio,whole embryo,prime-15 (30hpf),SAMEA3892018
+36hpf_rep1,Danio rerio,whole embryo,prime-25 (36hpf),SAMEA3892019
+36hpf_rep2,Danio rerio,whole embryo,prime-25 (36hpf),SAMEA3892020
+36hpf_rep3,Danio rerio,whole embryo,prime-25 (36hpf),SAMEA3892021
+36hpf_rep4,Danio rerio,whole embryo,prime-25 (36hpf),SAMEA3892023
+36hpf_rep5,Danio rerio,whole embryo,prime-25 (36hpf),SAMEA3892024
+2dpf_rep1,Danio rerio,whole embryo,long-pec (2dpf),SAMEA3892025
+2dpf_rep2,Danio rerio,whole embryo,long-pec (2dpf),SAMEA3892026
+2dpf_rep3,Danio rerio,whole embryo,long-pec (2dpf),SAMEA3892028
+2dpf_rep4,Danio rerio,whole embryo,long-pec (2dpf),SAMEA3892029
+2dpf_rep5,Danio rerio,whole embryo,long-pec (2dpf),SAMEA3892030
+3dpf_rep1,Danio rerio,whole embryo,protruding-mouth (3dpf),SAMEA3892031
+3dpf_rep2,Danio rerio,whole embryo,protruding-mouth (3dpf),SAMEA3892032
+3dpf_rep3,Danio rerio,whole embryo,protruding-mouth (3dpf),SAMEA3892034
+3dpf_rep4,Danio rerio,whole embryo,protruding-mouth (3dpf),SAMEA3892035
+3dpf_rep5,Danio rerio,whole embryo,protruding-mouth (3dpf),SAMEA3892036
+4dpf_rep1,Danio rerio,whole embryo,4dpf,SAMEA3892037
+4dpf_rep2,Danio rerio,whole embryo,4dpf,SAMEA3892038
+4dpf_rep3,Danio rerio,whole embryo,4dpf,SAMEA3892040
+4dpf_rep4,Danio rerio,whole embryo,4dpf,SAMEA3892041
+4dpf_rep5,Danio rerio,whole embryo,4dpf,SAMEA3892042
+5dpf_rep1,Danio rerio,whole embryo,5dpf,SAMEA3892044
+5dpf_rep2,Danio rerio,whole embryo,5dpf,SAMEA3892045
+5dpf_rep3,Danio rerio,whole embryo,5dpf,SAMEA3892046
+5dpf_rep4,Danio rerio,whole embryo,5dpf,SAMEA3892047
+5dpf_rep5,Danio rerio,whole embryo,5dpf,SAMEA3892049
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,8 @@
+sample,organism,source,developmental stage,accession number (GEO)
+ATF1_ChIP_rep1,Homo sapiens,K562,NA,GSM2527543
+ATF1_ChIP_rep2,Homo sapiens,K562,NA,GSM2527544
+ELF1_ChIP_rep1,Homo sapiens,K562,NA,GSM2828831
+ELF1_ChIP_rep2,Homo sapiens,K562,NA,GSM2828832
+Nanog_ChIP,Danio rerio,whole embryo,4.5hpf,GSM853235
+Pou5f3_ChIP,Danio rerio,whole embryo,5hpf,GSM978985
+Sox2_ChIP,Danio rerio,whole embryo,5hpf,GSM978984

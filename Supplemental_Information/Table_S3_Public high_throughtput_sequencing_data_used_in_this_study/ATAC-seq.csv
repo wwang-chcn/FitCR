@@ -1,0 +1,19 @@
+sample,organism,source,developmental stage,accession number (GEO),accession number (GSA)
+wt_oblong_atac_rep1,Danio rerio,whole embryo,oblong,GSM3756609,
+wt_oblong_atac_rep2,Danio rerio,whole embryo,oblong,GSM3756610,
+wt_oblong_atac_rep3,Danio rerio,whole embryo,oblong,GSM3756611,
+nanog-KO_oblong_atac_rep1,Danio rerio,whole embryo,oblong,GSM3756593,
+nanog-KO_oblong_atac_rep2,Danio rerio,whole embryo,oblong,GSM3756594,
+pou5f3-KO_oblong_atac_rep1,Danio rerio,whole embryo,oblong,GSM3756595,
+pou5f3-KO_oblong_atac_rep2,Danio rerio,whole embryo,oblong,GSM3756596,
+sox19b-KO_oblong_atac_rep1,Danio rerio,whole embryo,oblong,GSM3756597,
+sox19b-KO_oblong_atac_rep2,Danio rerio,whole embryo,oblong,GSM3756598,
+ATAC 256-cell rep1,Danio rerio,whole embryo,256-cell (2.5hpf),GSM2715429,CRX233219
+ATAC 256-cell rep2,Danio rerio,whole embryo,256-cell (2.5hpf),GSM2715430,CRX233220
+ATAC 256-cell rep3,Danio rerio,whole embryo,256-cell (2.5hpf),GSM2715431,CRX233221
+ATAC 1k-cell rep1,Danio rerio,whole embryo,1k-cell (3hpf),GSM2715432,CRX233222
+ATAC 1k-cell rep2,Danio rerio,whole embryo,1k-cell (3hpf),GSM2715433,CRX233223
+ATAC 1k-cell rep3,Danio rerio,whole embryo,1k-cell (3hpf),GSM2715434,CRX233224
+ATAC oblong rep1,Danio rerio,whole embryo,oblong (3.7hpf),GSM2715435,CRX233225
+ATAC oblong rep2,Danio rerio,whole embryo,oblong (3.7hpf),GSM2715436,CRX233226
+ATAC oblong rep3,Danio rerio,whole embryo,oblong (3.7hpf),GSM2715437,CRX233227
