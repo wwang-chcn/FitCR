@@ -1,5 +1,5 @@
 # FitCR
-Codes and supplemental tables for "Antibody-freely profiling transcription factor occupancy during early embryogenesis by FitCUT&amp;RUN".
+Codes and supplemental tables for "**Antibody-free profiling of transcription factor occupancy during early embryogenesis by FitCUT&RUN**".
 
 
 
