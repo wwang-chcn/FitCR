@@ -1,0 +1,19 @@
+sample,organism,source,developmental stage,input material,accession number (GSA/GSA-Human)
+WT 256-cell (pre-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299687
+WT 256-cell (pre-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299688
+WT 1k-cell (MBT) RNA-seq replicate 1,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299689
+WT 1k-cell (MBT) RNA-seq replicate 2,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299690
+WT dome (post-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299691
+WT dome (post-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299692
+nanog-rFc injection 256-cell (pre-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299693
+nanog-rFc injection 256-cell (pre-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299694
+nanog-rFc injection 1k-cell (MBT) RNA-seq replicate 1,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299695
+nanog-rFc injection 1k-cell (MBT) RNA-seq replicate 2,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299696
+nanog-rFc injection dome (post-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299697
+nanog-rFc injection dome (post-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299698
+H2O injection 256-cell (pre-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299699
+H2O injection 256-cell (pre-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,256-cell (2.5hpf),20 embryos,CRX299700
+H2O injection 1k-cell (MBT) RNA-seq replicate 1,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299701
+H2O injection 1k-cell (MBT) RNA-seq replicate 2,Danio rerio,whole embryo,1k-cell (3hpf),20 embryos,CRX299702
+H2O injection dome (post-MBT) RNA-seq replicate 1,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299703
+H2O injection dome (post-MBT) RNA-seq replicate 2,Danio rerio,whole embryo,dome (4.3hpf),20 embryos,CRX299704
