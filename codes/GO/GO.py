@@ -11,9 +11,9 @@ from pprint import pprint
 
 
 # --- Load Genes ---
-nanog_256_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_pre_MBT_target_genes.csv')
-nanog_1k_new_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_MBT_target_genes.csv')
-nanog_dome_new_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_post_MBT_target_genes.csv')
+nanog_256_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_pre_MBT_target.csv')
+nanog_1k_new_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_MBT_target.csv')
+nanog_dome_new_genes = pd.read_csv('../../Supplemental_Information/Table_S5_Nanog_target_genes/Nanog_post_MBT_target.csv')
 nanog_256_genes_in_10k = set(nanog_256_genes['Gene'].values)
 nanog_1k_new_genes_in_10k = set(nanog_1k_new_genes['Gene'].values)
 nanog_dome_new_genes_in_10k = set(nanog_dome_new_genes['Gene'].values)
