@@ -126,12 +126,15 @@ def single_query_cluster_gen(GO_results,
 
 def query_cluster(GO_results, query, natives):
     for query_name in query.keys():
-        index, row = next(GO_output.loc[[
-            True if x in natives and y == query_name else False
-            for x, y in zip(GO_output['native'], GO_output['query'])
-        ], ['-log10 P-value', 'enrichment']].sort_values(
-            by='enrichment', ascending=False).head(1).iterrows())
-        yield query_name, row['-log10 P-value'], row['enrichment']
+        try:
+            index, row = next(GO_results.loc[[
+                True if x in natives and y == query_name else False
+                for x, y in zip(GO_results['native'], GO_results['query'])
+            ], ['-log10 P-value', 'enrichment']].sort_values(
+                by='enrichment', ascending=False).head(1).iterrows())
+            yield query_name, row['-log10 P-value'], row['enrichment']
+        except StopIteration:
+            yield query_name, np.nan, np.nan
 
 
 def gen_top_K_cluster(GO_results,
